@@ -12,8 +12,16 @@ h3{
   text-decoration: underline;
 }
 
-#main, #aside {
-  margin: 20px;
+#main, #tableContainer {
+  margin: 10px;
   padding: 20px;
+}
+
+.navContainer {
+  margin: 10px;
   border-style: solid;
+}
+
+ol li {
+  color: white;
 }
