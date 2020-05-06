@@ -9,6 +9,10 @@ body {
   margin: 10px;
 }
 
+p{
+    line-height: 80%;
+}
+
 h3{
   text-decoration: underline;
 }
@@ -16,6 +20,14 @@ h3{
 #main, #tableContainer {
   margin: 10px;
   padding: 20px;
+}
+
+img {
+    border-style: groove;
+}
+
+.row {
+  margin: 2.5px;
 }
 
 .navContainer {
