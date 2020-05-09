@@ -27,7 +27,7 @@ img {
 }
 
 .row {
-  margin: 2.5px;
+  margin: 0px 3px 0px 3px;
 }
 
 .navContainer {
@@ -41,4 +41,10 @@ ol li {
 
 img {
   padding: 5px;
+}
+
+@media screen and (max-width: 480px){
+  body{
+  background-color: red;
+ }
 }
