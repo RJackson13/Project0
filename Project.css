@@ -1,3 +1,8 @@
+.fontStyling, ul {
+  font-size: 30px;
+  color: #822903;
+  font-style: italic; }
+
 ul {
   font-family: "Times New Roman", Times, serif; }
 

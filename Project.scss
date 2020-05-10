@@ -1,5 +1,11 @@
 $font-stack: "Times New Roman", Times, serif;
+.fontStyling {
+  font-size: 30px;
+  color: #822903;
+  font-style: italic;
+}
 
 ul {
   font-family: $font-stack;
+  @extend .fontStyling;
 }
