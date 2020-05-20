@@ -9,3 +9,9 @@ ul {
   font-family: $font-stack;
   @extend .fontStyling;
 }
+
+div {
+  p{
+    color: white;
+  }
+}
